@@ -1,0 +1,9 @@
+Package: pems
+Type: Package
+Title: Analysis of California PeMS data
+Version: 0.1
+Date: 2016-11-01
+Author: Clark Fitzgerald
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: MIT
